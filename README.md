@@ -119,16 +119,4 @@ summary = response.json()['summary']
 print(summary)
 ```
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Hugging Face for their amazing transformers library
-- OpenAI for their powerful language models
-- All open-source projects that made this application possible
